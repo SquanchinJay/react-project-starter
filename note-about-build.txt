@@ -1,0 +1,6 @@
+create react app
+react router dom
+normalize.css
+styled components
+added base resets via App.css
+webfontloader

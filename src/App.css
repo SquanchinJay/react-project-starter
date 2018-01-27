@@ -1,0 +1,17 @@
+/* Base styles - extend Reset */
+
+/* set rem unit to 10px */
+html {
+  font-size: 62.5%;
+}
+
+/* readjust base font */
+body {
+  font-size: 1.6rem;
+  font-family: 'Lato', sans-serif;
+}
+
+*, h1, h2, h3, h4, h5, h6 {
+  box-sizing: border-box;
+  margin: 0;
+}
